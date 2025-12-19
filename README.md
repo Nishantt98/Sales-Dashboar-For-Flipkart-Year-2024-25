@@ -22,3 +22,6 @@ Optimize High-Margin Brands: Since Intel and Asus represent over a third of tota
 Inventory Alignment: Focus stock replenishment on Monitors and CPUs, which are the current volume leaders.
 Regional Expansion: Use the "Sales by State" data to identify low-performing regions for targeted marketing campaigns.
 
+Screenshot/ demo - show what the dashboard look like -
+![Dashboard Preview](https://github.com/Nishantt98/Sales-Dashboar-For-Flipkart-Year-2024-25/blob/main/Dashboard_Preview.png)
+
